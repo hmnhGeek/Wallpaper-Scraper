@@ -27,7 +27,7 @@ python3.5 walllpaperup.py <keyword> --onpage <page_number> -s <saving_location>
 python3.5 wallpaperup.py <keyword> --all --onpage <page_number> -s <saving_location>
 ```
 
-## Built without
+## Built with
 1. Requests
 2. BS4
 
